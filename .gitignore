@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+settings.ini
+config/
+_tmp*
